@@ -151,7 +151,7 @@ export default function AdminPage() {
           👨‍💼 Admin Dashboard
         </h1>
 
-        <div className="grid md:grid-cols-1 gap-6">
+        <div className="grid md:grid-cols-2 gap-6">
 
           <div className="bg-white p-6 rounded-2xl shadow">
             <h2 className="text-xl font-bold">
